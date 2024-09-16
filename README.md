@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+![296352797-acb457e2-ea95-4712-9521-1349020d5990](https://github.com/user-attachments/assets/1ff9cf94-3c96-44d3-a5ff-5141640ab870)
 
 
 <h3 align="left">Connect with me:</h3>
