@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
 
 
-![Uploading 296352797-acb457e2-ea95-4712-9521-1349020d5990.gif…]()
+
+![296352797-acb457e2-ea95-4712-9521-1349020d5990](https://github.com/user-attachments/assets/043840a6-e26e-4b92-a75c-bb023901fafd)
 
 
 
